@@ -34,7 +34,7 @@
     "node-pre-gyp": "0.6.x"
   },
   "optionalDependencies": {
-    "usb": "^1.1.0"
+    "usb": "git+ssh://git@github.com/reebalazs/node-usb.git#d7e851ffa81838a78d6d2e334bb1584050cf91b4"
   },
   "devDependencies": {
     "jshint": "^2.8.0"
