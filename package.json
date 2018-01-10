@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepmistry/node-bluetooth-hci-socket.git"
+    "url": "https://github.com/reebalazs/node-bluetooth-hci-socket.git"
   },
   "keywords": [
     "HCI",
@@ -46,7 +46,7 @@
   "binary": {
       "module_name": "binding",
       "module_path": "./lib/binding/",
-      "host": "https://github.com/sandeepmistry/node-bluetooth-hci-socket/releases/download/",
+      "host": "https://github.com/reebalazs/node-bluetooth-hci-socket/releases/download/",
       "package_name": "{module_name}-{version}-{node_abi}-{platform}-{arch}.tar.gz",
       "remote_path": "{version}"
   }
